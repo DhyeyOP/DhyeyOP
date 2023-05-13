@@ -1,4 +1,4 @@
-**__General Information__**
+# **__General Information__**
 
 Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
 
