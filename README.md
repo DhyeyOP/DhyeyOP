@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DhyeyOP&label=Profile%20views&color=0e75b6&style=plastic" alt="DhyeyOP" /> </p>
 Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
 
-<hr>
+<img src="https://media.discordapp.net/attachments/938127357728940123/938301364042367006/divider-1-1-1.gif" width="1000">
 
 <h2>:bar_chart: GitHub Stats:</h2>
 
