@@ -13,6 +13,27 @@ Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
 <hr>
   
 # My Activity  
+
+### 💻 Programming languages
+
+<p align="left">
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+   </a> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.tutorialspoint.com/typescript/index.htm" target="_blank"> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a> 
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+</p>
   
 ### 🎨 Graphic Designing
 
