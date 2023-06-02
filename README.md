@@ -50,6 +50,6 @@ Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
 ## 🤝 Contact Me
 
 <p align="center">
-  <a href="https://discord.gg/ZbSw3aWXWq"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.gg/qwbM7VWkW4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <br/>
 	<a href="https://github.com/DhyeyOP"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
