@@ -1,3 +1,15 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>02</title>
+  <!-- Remix icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+  <!-- Link to your stylesheet -->
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
 <h1 align="center">Hi, I'm Dhyey Rupareliya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/1106521705226186763/1114470949056692224/Sukuna.gif.gif" height = 300>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Interested+in+Computer+Science;GFX+and+VFX+Learner+.+.+." alt="Typing SVG" /></a>
@@ -58,8 +70,20 @@ Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
  </details>
 
 ## 📩 Contact Me
+  <div class="icons">
+    <a href="https://www.instagram.com/_dhyey_rupareliya_/" class="icon icon--instagram">
+      <i class="ri-instagram-line"></i>
+    </a>
+    <a href="#" class="icon icon--twitter">
+      <i class="ri-twitter-line"></i>
+    </a>
+    <a href="#" class="icon icon--linkedin">
+      <i class="ri-linkedin-line"></i>
+    </a>
+    <a href="https://github.com/DhyeyOP" class="icon icon--github">
+      <i class="ri-github-line"></i>
+    </a>
+  </div>
+</body>
+</html>
 
-<p align="center">
-  <a href="https://discord.gg/qwbM7VWkW4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <br/>
-	<a href="https://github.com/DhyeyOP"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
