@@ -58,20 +58,3 @@ Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
  <img src="https://media.discordapp.net/attachments/1106521705226186763/1114472407235833856/Sample.jpg?width=1025&height=169">
  </details>
 
-## 📩 Contact Me
-  <div class="icons">
-    <a href="https://www.instagram.com/_dhyey_rupareliya_/" class="icon icon--instagram">
-      <i class="ri-instagram-line"></i>
-    </a>
-    <a href="#" class="icon icon--twitter">
-      <i class="ri-twitter-line"></i>
-    </a>
-    <a href="#" class="icon icon--linkedin">
-      <i class="ri-linkedin-line"></i>
-    </a>
-    <a href="https://github.com/DhyeyOP" class="icon icon--github">
-      <i class="ri-github-line"></i>
-    </a>
-  </div>
-</body>
-</html>
