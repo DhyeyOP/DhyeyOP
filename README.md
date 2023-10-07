@@ -59,7 +59,6 @@ Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
  </details>
 
 ### Contact Me
-<a href="https://discord.com/users/758880890159235083" target="_blank">
-	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/758880890159235083?bg=1f1f1f&borderRadius=5px">
-</a>
-
+<p align="center">
+  <a href=" https://discord.gg/qwbM7VWkW4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <br/>
