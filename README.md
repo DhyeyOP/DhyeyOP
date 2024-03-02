@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Dhyey Rupareliya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/1106521705226186763/1114470949056692224/Sukuna.gif.gif" height = 300>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Interested+in+Computer+Science;GFX+and+VFX+Learner+.+.+." alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Designer+.+.+.;Coding+ Enthusiast+.+.+." alt="Typing SVG" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DhyeyOP&label=Profile%20views&color=0e75b6&style=plastic" alt="DhyeyOP" /> </p>
 Hi 👋, This is Dhyey Rupareliya from Gujarat, India.
 
