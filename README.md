@@ -19,7 +19,7 @@ I make Discord Bots and manage discord servers
 [![](https://visitcount.itsvg.in/api?id=DhyeyOP&icon=7&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/_dhyey_rupareliya_) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_dhyey_rupareliya_) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
